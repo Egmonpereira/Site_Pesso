@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" http-equiv="refresh" content="60; url=inicio.html">
+        <meta name="viewport" content="width=device-width" initial-scale=1>
+        <link rel="sortcut icon" href="imagens/favicon.png" type="image/x-icon" />
+    </head>
+
+    <body background="#000">
+        <center>
+            <center>
+                <div class="corpo">
+                <p align="left">
+                    <div class="container">
+                        <a target="_blank" href="https://www.disneyplus.com/ "><img width="5%" src="imagens/Disney.png "></a>
+                        <a target="_blank" href="https://www.primevideo.com "><img width="5%" src="imagens/primevideo.png "></a>
+                        <a target="_blank" href="https://plataforma.brasilparalelo.com.br/signin "><img width="5%" src="imagens/bpselect.png "></a>
+                        <a target="_blank" href="https://www.netflix.com/browse "><img width="5%" src="imagens/netflix.png "></a>
+                        <a target="_blank" href="https://www.youtube.com/ "><img width="6%" src="imagens/youtubeRedonda.png"></a>
+                    </div>
+                    
+                    <div class="container">
+                        <a target="_blank" href="https://www.deezer.com/br/ "><img width="5%" src="imagens/deezer.png "></a>
+                        <a target="_blank" href="https://music.youtube.com/ "><img width="5%" src="imagens/youtubemusic.png "></a>
+                        <a target="_blank" href="https://www.spotify.com/br/ "><img width="5%" src="imagens/spotify.png "></a>
+                        <a target="_blank" href="https://music.yandex.com "><img width="5%" src="imagens/YandexMusic.png "></a>
+                        <a target="_blank" href="https://music.amazon.com.br/ "><img width="5%" src="imagens/amazonmusic.png "></a>
+                        <a target="_blank" href="https://chordify.net/ "><img width="5%" src="imagens/chordify.png "></a>
+                    </div>
+                </div>
+            </center>
+        </center>
+    </body>
+</html>
