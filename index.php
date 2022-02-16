@@ -37,7 +37,7 @@
                   <iframe name="cabecalho" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="cabecalho.php" width="800px" height="185px"></iframe>
                   <iframe name="menu" bgcolor="transparente" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="menu.html" width="800px" height="80px"></iframe>
                   <iframe name="pagina" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="inicio.html" width="100%" height="300px"></iframe>
-                  <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="info.html" width="300px" height="30px"></iframe>
+                  <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="info.html" width="600px" height="30px"></iframe>
                 </p>
             </td>
           </tr> 
